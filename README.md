@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Lien Itch.io](https://xla17.itch.io/)
-[Lien GitLab](https://gitlab.com/AlexyLafosse)
+Lien [Itch.io](https://xla17.itch.io/)
+Lien [GitLab](https://gitlab.com/AlexyLafosse)
