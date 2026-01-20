@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://xla17.itch.io/">
+<a href="https://gitlab.com/AlexyLafosse">
